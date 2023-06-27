@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(3, 3, 118);
+}
+
+.container  {
+    background-color: rgb(245, 227, 227);
+    width: 450px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.row-1 {
+    display: flex;
+    justify-content: center;
+    margin: 1.4rem 0;
+}
+
+.row-1 .earrings {
+    margin: 0 2rem;
+}
+
+.row-1 .earrings i {
+    font-size: 2.8rem;
+    color: green;
+}
+
+.row-1 .earrings i#cookie {
+    color: burlywood;
+}
+
+.row-1 .earrings i#fan {
+    color: rgb(255, 255, 0);
+}
+
+.row-1 .earrings i#bone {
+    color: rgb(221, 115, 9);
+}
+
+.row-1 .earrings i#cloud {
+    color: rgb(3, 3, 118);
+}
+
+.row-1 .earrings i#knight {
+    color: rgb(118, 3, 37);
+}
+
+.row-1 .earrings i#horse {
+    color: rgb(144, 16, 133);
+}
+
+.row-1 .earrings i#tornado {
+    color: rgb(206, 148, 77);
+}
+
+.row-1 .earrings i#jar {
+    color: rgb(165, 165, 19);
+}
+
+.row-1 .earrings i#star {
+    color: black;
+}
+
+.row-1 .earrings i#dragon {
+    color: rgb(24, 181, 128);
+}
+
+.row-1 .earrings i#skull {
+    color: rgb(3, 57, 3);
+}
+
+.row-1 .earrings i#mitten {
+    color: pink;
+}
+
+.row-1 .earrings i#drop {
+    color: rgb(214, 118, 21);
+}
+
+.row-1 .earrings i#pizza {
+    color: red;
+}
+
+.row-1 .earrings i#jet {
+    color: rgb(118, 113, 113);
+}
+
+.row-1 .earrings i#palette {
+    color: rgb(202, 141, 227);
+}
